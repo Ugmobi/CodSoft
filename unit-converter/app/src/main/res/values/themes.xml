@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UnitConversion" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/bottom_bar_background_color</item>
+        <item name="android:navigationBarColor">@color/bottom_bar_background_color</item>
+        <item name="android:colorFocusedHighlight">#777577</item>
+    </style>
+
+    <style name="Theme.UnitConversion" parent="Base.Theme.UnitConversion" />
+    <style name="bottom_bar_indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/color_bottom_bar_chip_background</item>
+    </style>
+</resources>

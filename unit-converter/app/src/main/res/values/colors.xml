@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bottom_bar_background_color">#F1E5E5</color>
+    <color name="color_bottom_bar_chip_background">#FEDADC</color>
+    <color name="background_main_page">#F9FDFE</color>
+    <color name="color_unselect">#524444</color>
+    <color name="color_selected">#2B1518</color>
+</resources>
